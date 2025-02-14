@@ -58,8 +58,8 @@ This project is licensed under the **MIT License** – See [LICENSE](LICENSE) fo
 
 For queries or collaborations, reach out via:  
 
-📧 **Email:** [vijaykumar_23se170@dtu.ac.in](mailto:vijaykumar_23se170@dtu.ac.in)  
-💬 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 **Email:** [Email](mailto:vijaykumar_23se170@dtu.ac.in)  
+💬 **LinkedIn:** [LinkedIn](https://linkedin.com/in/yourprofile)  
 🌍 **Website:** [SpectraGrow](https://spectra-grow.vercel.app/)  
 
 ---
