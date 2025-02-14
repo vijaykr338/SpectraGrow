@@ -29,7 +29,7 @@ export default function Analysis() {
           <CardTitle>Nutrient Levels</CardTitle>
         </CardHeader>
         <CardContent>
-          <div className="h-[400px]">
+          <div className="h-[300px] md:h-[400px]">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={soilData}>
                 <XAxis dataKey="name" />
@@ -48,7 +48,7 @@ export default function Analysis() {
           <CardTitle>Spectral Signature</CardTitle>
         </CardHeader>
         <CardContent>
-          <div className="h-[400px]">
+          <div className="h-[300px] md:h-[400px]">
             <ResponsiveContainer width="100%" height="100%">
               <LineChart data={spectralData}>
                 <XAxis dataKey="wavelength" />
@@ -89,4 +89,3 @@ export default function Analysis() {
     </div>
   )
 }
-

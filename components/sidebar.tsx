@@ -3,7 +3,7 @@ import { BarChart2, Leaf, Upload, LogOut } from "lucide-react"
 
 export function Sidebar() {
   return (
-    <div className="w-64 bg-primary text-primary-foreground p-4">
+    <div className="w-64 bg-primary text-primary-foreground p-4 h-full">
       <h1 className="text-2xl font-bold mb-8">SpectraGrow</h1>
       <nav>
         <ul className="space-y-2">
@@ -36,4 +36,3 @@ export function Sidebar() {
     </div>
   )
 }
-
