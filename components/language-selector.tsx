@@ -14,7 +14,7 @@ const languages = [
 
 export function LanguageSelector() {
   const [currentLanguage, setCurrentLanguage] = useState(languages[0])
-
+  console.log(currentLanguage);
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>

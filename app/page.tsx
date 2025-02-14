@@ -16,9 +16,9 @@ export default function Home() {
       </div>
       <main className="z-10 text-center">
         <h1 className="text-5xl md:text-7xl font-bold mb-4">SpectraGrow</h1>
-        <p className="text-2xl md:text-3xl font-light mb-8">Nurturing Earth's Potential, One Spectrum at a Time</p>
+        <p className="text-2xl md:text-3xl font-light mb-8">Nurturing Earth&apos;s Potential, One Spectrum at a Time</p>
         <p className="text-xl mb-12 max-w-2xl">
-          Harness the power of AI and hyperspectrometry to unlock your soil's hidden potential. SpectraGrow brings
+          Harness the power of AI and hyperspectrometry to unlock your soil&apos;s hidden potential. SpectraGrow brings
           cutting-edge technology to your fields, ensuring sustainable growth and bountiful harvests.
         </p>
         <Link href="/upload">
